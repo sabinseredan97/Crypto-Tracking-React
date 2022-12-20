@@ -86,7 +86,7 @@ const dateFormat = { year: "numeric", month: "short", day: "numeric" }
             {
                 fill: true,
                 label: `${props.fiatCurrency + " " + fiatCoinUnit}`,
-                data: cryptoPrices.map((value) => value[1].toFixed(2)),
+                data: cryptoPrices.map((value) => value[1]),
                 borderColor: "rgb(0,255,0)",
                 borderWidth: .5,
                 backgroundColor: "rgba(0, 255, 0, 0.7)",
