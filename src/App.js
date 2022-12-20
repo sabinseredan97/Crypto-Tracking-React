@@ -6,7 +6,7 @@ import './app.css';
 
 function App() {
   const [timePeriod,  setTimePeriod] = useState(7);
-  const [fiatCurrency, setFiatCurrency] = useState("US Dollar");
+  const [fiatCurrency, setFiatCurrency] = useState("Euro");
   const [cryptoCurrency, setCryptoCurrency] = useState("Bitcoin");
   
   function showGraph() {
