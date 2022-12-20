@@ -1,0 +1,56 @@
+.fiatCurrency, .cryptoCurrency {
+    font-size: large;
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+}
+
+.fiat {
+    background-color: rgb(160, 160, 160);
+    margin-top: 58px;
+    width: 25%;
+    float: left;
+    border-radius: 1rem;
+}
+
+.crypto {
+    background-color: rgb(160, 160, 160);
+    margin-top: 58px;
+    width: 25%;
+    float: right;
+    border-radius: 1rem;
+}
+
+.fiatSubmit {
+    margin-left: .7rem;
+    font-size: 1rem;
+    padding: .5rem 2rem;
+    background-color: whitesmoke;
+    cursor: pointer;
+    border: none;
+    font-family: arial;
+    letter-spacing: .1rem;
+    border-radius: .8rem;
+    box-shadow: 0rem .2rem 0rem 0rem rgb(0, 0, 0);
+}
+
+.cryptoSubmit {
+    margin-left: .7rem;
+    font-size: 1rem;
+    padding: .5rem 2rem;
+    background-color: whitesmoke;
+    cursor: pointer;
+    border: none;
+    font-family: arial;
+    letter-spacing: .1rem;
+    border-radius: .8rem;
+    box-shadow: 0rem .2rem 0rem 0rem rgb(0, 0, 0);
+}
+
+.fiatSubmit:hover, .cryptoSubmit:hover {
+    background-color: rgb(225, 255, 215);;
+}
+
+.fiatSubmit:active, .cryptoSubmit:active {
+    transform: translateY(.2rem);
+    box-shadow: 0rem .1rem 0rem 0rem rgb(0, 0, 0);
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "One day",
+    "period": "1"
+  },
+  {
+    "name": "One week",
+    "period": "7"
+  },
+  {
+    "name": "Two weeks",
+    "period": "14"
+  },
+  {
+    "name": "Three weeks",
+    "period": "21"
+  },
+  {
+    "name": "One month",
+    "period": "30"
+  },
+  {
+    "name": "Two months",
+    "period": "60"
+  },
+  {
+    "name": "Three months",
+    "period": "90"
+  },
+  {
+    "name": "Six months",
+    "period": "180"
+  },
+  {
+    "name": "Nine months",
+    "period": "270"
+  },
+  {
+    "name": "One year",
+    "period": "365"
+  },
+  {
+    "name": "One year and a half",
+    "period": "545"
+  },
+  {
+    "name": "Two years",
+    "period": "730"
+  },
+  {
+    "name": "Three years",
+    "period": "1095"
+  },
+  {
+    "name": "Four years",
+    "period": "1460"
+  },
+  {
+    "name": "Five years",
+    "period": "1825"
+  },
+  {
+    "name": "Maximum",
+    "period": "max"
+  }
+]
